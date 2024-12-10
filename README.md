@@ -1,4 +1,6 @@
-## Hi there 👋
+## Technology and Entertainment 👋
+
+Creating excitement through solutions and entertainment system
 
 <!--
 **TomatoCakePasta/TomatoCakePasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
