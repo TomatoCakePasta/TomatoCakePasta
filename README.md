@@ -26,7 +26,7 @@ Creating excitement through communication and entertainment system
 | フレームワーク | Vue.js(1年), Node.js(半年), Bootstrap(1年), OpenFrameworks(半年) |
 | DB | MySQL(半年), SQLite(半年) |
 | OS | Windows, Linux, Mac |
-| その他 | さくらのVPS, Ruspberry Pi |
+| その他 | さくらのVPS, Raspberry Pi |
 | マネジメント | チームリーダーとして3名規模のスケジュール・進捗管理 |
 
 <!--
