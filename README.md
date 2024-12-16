@@ -23,10 +23,10 @@ Creating excitement through communication and entertainment system
 | 概要 | 詳細 |
 | :--- | :--- |
 | 主要言語 | JavaScript(2年), C(2年), C++(半年), Processing(1年) |
-| フレームワーク | Vue.js(1年), Node.js(半年), Bootstrap(1年) |
+| フレームワーク | Vue.js(1年), Node.js(半年), Bootstrap(1年), OpenFrameworks(半年) |
 | DB | MySQL(半年), SQLite(半年) |
 | OS | Windows, Linux, Mac |
-| ホスティング | さくらのVPS |
+| その他 | さくらのVPS, Ruspberry Pi |
 | マネジメント | チームリーダーとして3名規模のスケジュール・進捗管理 |
 
 <!--
