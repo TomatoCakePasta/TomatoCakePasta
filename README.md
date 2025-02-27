@@ -18,6 +18,7 @@ Creating excitement through communication and entertainment system
 | 2023年度 | 所属大学 学長賞 |
 | 2024年度 | キーエンス財団「がんばれ!日本の大学生」応援給付金 採用 |
 | 2024年9月  | 技育博 サイバーエージェント賞 |
+| 2024年度 | 所属大学　学部長賞 |
 
 ## 経験・スキル概要
 | 概要 | 詳細 |
