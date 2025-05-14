@@ -21,6 +21,7 @@ Creating excitement through communication and entertainment system
 | 2024年度 | 所属大学 学部長賞 |
 | 2024年2月 | スマホデバイス使用-ライブ演出システムの開発 [ソースはこちら](https://github.com/TomatoCakePasta/penlight-system) |
 | 2024年3月 | 3大学連携プロジェクト [ソースはこちら](https://github.com/TomatoCakePasta/project3T) |
+| 2024年度 | 所属大学 学長賞 |
 
 ## 経験・スキル概要
 | 概要 | 詳細 |
