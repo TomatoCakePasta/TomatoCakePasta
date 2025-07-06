@@ -17,6 +17,7 @@ Creating excitement through communication and entertainment system
 | 2023年度 | 第20回ACジャパン広告学生賞 奨励賞 |
 | 2023年度 | 所属大学 学長賞 |
 | 2024年度 | キーエンス財団「がんばれ!日本の大学生」応援給付金 採用 |
+| 2024年4月 | デジタル集団肖像画の制作 (-24年10月) [ソースはこちら](https://github.com/nakamuraprocess/DoppVisualInstallation2024) |
 | 2024年9月  | 技育博 サイバーエージェント賞 [ソースはこちら](https://github.com/TomatoCakePasta/copla-univ)|
 | 2024年度 | 所属大学 学部長賞 |
 | 2024年2月 | スマホデバイス使用-ライブ演出システムの開発 [ソースはこちら](https://github.com/TomatoCakePasta/penlight-system) |
